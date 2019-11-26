@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
 # Ruby version
-ruby '2.4.0'
+ruby '2.6.5'
 
 # General list of gems
-gem 'rails', '5.0.2'
+gem 'rails', '5.2.3'
 gem 'pg'
 gem 'puma'
 gem 'sass-rails'

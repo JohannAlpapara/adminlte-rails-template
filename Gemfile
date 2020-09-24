@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 ruby '2.6.5'
 
 # General list of gems
-gem 'rails', '5.2.3'
+gem 'rails', '5.2.4.4'
 gem 'pg'
 gem 'puma'
 gem 'sass-rails'
